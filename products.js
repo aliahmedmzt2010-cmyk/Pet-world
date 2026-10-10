@@ -1,4 +1,11 @@
-/*
+/*{
+  "name": "دراي فود للقطط",
+  "category": "أكل القطط",
+  "price": "650",
+  "oldPrice": "",
+  "description": "دراي فود ممتاز لصحة القطط",
+  "image": "images/cat-food.jpg"
+}
   ملف منتجات Pet World
   أضف المنتجات داخل القائمة بنفس شكل المثال بالأسفل، ثم ارفع ملفات الموقع من جديد.
   image: اسم الصورة بعد وضعها في مجلد images مثل "images/legend-adult.jpg"
